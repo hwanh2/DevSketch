@@ -98,6 +98,7 @@
       <td><b>AI</b></td>
       <td>
         <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white">
       </td>
       </td>
     </tr>
