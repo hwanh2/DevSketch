@@ -52,7 +52,8 @@
 <br><br>
 
 ## 🏢 System Architechture
-![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
+![image](https://github.com/user-attachments/assets/04ee7d0c-bbe4-4a85-9366-6707fed6ae59)
+
 </br>
 </br>
 
