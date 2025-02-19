@@ -46,8 +46,8 @@
 
 ### Set up the initial environment
 > 설계를 바탕으로 초기 세팅을 할 수도 있으며, 메인 페이지에서 초기 세팅만 할 수도 있습니다.<br>
-> 설계를 바탕으로 초기 세팅을 만들면, 출력된 ERD와 api 명세서대로 코드를 만들어줍니다.<br>
-> 초기 세팅은 깃허브에 업로드 가능하며, 사용자는 깃허브에 생성된 레포지토리에 생성된 api를 제공된 가상환경을 통해 30분간 실제로 사용해 볼 수 있습니다.
+> 설계를 바탕으로 초기 세팅을 만들면, 출력된 ERD와 api 명세서대로 코드를 생성해줍니다.<br>
+> 초기 세팅은 깃허브에 업로드 가능하며, 사용자는 레포지토리에 생성된 api를 가상환경을 통해 30분간 실제로 사용해 볼 수 있습니다.
 <img align="center" width="1000" alt="setup" src="https://github.com/user-attachments/assets/9bafe0a3-87e3-40d0-b8dd-462a847caf35">
 <img align="center" width="1000" alt="push" src="https://github.com/user-attachments/assets/aa2f9000-e657-41eb-a8ba-ac8ce92db24f">
 <br><br>
